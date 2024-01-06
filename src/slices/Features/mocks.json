@@ -23,7 +23,7 @@
 						"icon",
 						{
 							"__TYPE__": "FieldContent",
-							"value": "calander",
+							"value": "bargraph",
 							"type": "Select"
 						}
 					],

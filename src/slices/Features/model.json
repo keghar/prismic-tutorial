@@ -29,7 +29,7 @@
             "label": "Icon",
             "placeholder": "",
             "options": [
-              "calander",
+              "calendar",
               "bargraph",
               "clover",
               "hourglass"
